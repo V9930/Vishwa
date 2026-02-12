@@ -1,2 +1,2 @@
-Removed extra spaces from text fields.
-Standardized categorical columns (Gender, Payment_Mode).
+Removed extra spaces from text fields(city name)
+Standardized categorical columns (Gender).
